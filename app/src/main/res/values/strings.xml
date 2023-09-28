@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reproductor Música</string>
+    <string name="portada1"></string>
+    <string name="btn_play"></string>
+    <string name="btn_stop"></string>
+    <string name="btn_repetir"></string>
+    <string name="btn_anterior"></string>
+    <string name="btn_siguiente"></string>
+</resources>
